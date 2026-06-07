@@ -63,4 +63,3 @@ If you let the hunger stat stay at 0% for more than 15 seconds, it dies. To star
 
 ## How I made it?
 I used Fusion 360 to make the case and buttons, Arduino IDE for the code part and last but not least, the T-QT Pro and the LiPo battery.
-Short description of what your project is! Highlight what makes it unique
