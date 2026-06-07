@@ -4,16 +4,16 @@
 Hi, this is a Tamagotchi project that I built with T-QT Pro and a LiPo Battery.
 This is an easy project, but coding wasted a lot of time lol. 
 
-If you ask me what a Tamagotchi is, I will tell you that it is just a pet living in a device which you need to take care of.
+If you ask me what a Tamagotchi is, I will tell you that it is just a pet living in a device that you need to take care of.
 This is a completely open-source project. All the 3D parts and the BOM list are put in the folders. You may customise my project. 
 
-#What's it for?
+##What's it for?
 It's for you to take care of it and act like a pet owner. You can take it to school, home or even at work, wherever you like.
 
-#How to build it?
+##How to build it?
 Please print all the 3D parts. Also, connect the T-QT Pro to a battery. Then place the bottom case, put the bottom button part and the T-QT Pro, which is connected to the battery, inside. Afterwards, just put the top buttons inside the top case. Finally, combine both of them, and you can use it already.
 
-#How can you use it?
+##How can you use it?
 1. Please download and install Arduino IDE from the official Arduino website.
 2. Install ESP32 Board in Arduino IDE:
 Open Arduino IDE and go to File > Preferences.
@@ -30,10 +30,10 @@ Write or load your sketch in the Arduino IDE.
 Click the Upload button. After a few seconds, your code will be uploaded to the board.
 6. And now you can use it, yay!!!
 
-#Why did I make it?
+##Why did I make it?
 I decided to make this because I want to try making one by myself. I would like to have a custom version of Tamagotchi and have a different game type. I have solved some problems, like the battery part. 
 
-#How do you play the game?
+##How do you play the game?
 Left button: The care button
 Tap this to feed your pet a cup of coffee to replenish its hunger.
 If your pet passes away, holding this button down for 2 full seconds acts as a reviver to restart the game.
@@ -61,6 +61,6 @@ State 4: Game Over (RIP)
 The whole thing vanishes completely, and the screen turns black, with a blinking "RIP" message that flashes alongside the text "Hold L to Reset".
 If you let the hunger stat stay at 0% for more than 15 seconds, it dies. To start over with a fresh new pet, hold down that LEFT button for 2 seconds.
 
-#How I made it?
+##How I made it?
 I used Fusion 360 to make the case and buttons, Arduino IDE for the code part and last but not least, the T-QT Pro and the LiPo battery.
 Short description of what your project is! Highlight what makes it unique
