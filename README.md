@@ -26,7 +26,7 @@ Search and install LovyanGFX
 After installing, select the LILYGO T-QT Pro ESP32-S3 board: Tools > Board > ESP32 Dev Module
 Select the correct Port under Tools > Port.
 5. Upload Code:
-Write or load your sketch in the Arduino IDE.
+Write or load Tamagotchi_Game in the Arduino IDE.
 Click the Upload button. After a few seconds, your code will be uploaded to the board.
 6. And now you can use it, yay!!!
 
