@@ -1,4 +1,4 @@
-# Tamagotchi
+# Falloutgotchi(Tamagotchi)
 <img width="1920" height="1080" alt="Case_2026-Jun-07_06-28-46PM-000_CustomizedView33723155341_png" src="https://github.com/user-attachments/assets/ca0e2879-1739-46af-a073-22bd3a34fa03" />
 
 Hi, this is a Tamagotchi project that I built with T-QT Pro and a LiPo Battery.
