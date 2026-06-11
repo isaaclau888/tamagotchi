@@ -63,3 +63,6 @@ If you let the hunger stat stay at 0% for more than 15 seconds, it dies. To star
 
 ## How I made it?
 I used Fusion 360 to make the case and buttons, Arduino IDE for the code part and last but not least, the T-QT Pro and the LiPo battery.
+
+# Fallout Zine 
+<img width="4405" height="6250" alt="Falloutgotchi (Tamagotchi) Fallout Zine" src="https://github.com/user-attachments/assets/50f70079-bd33-4945-b292-bd574c75d13b" />
